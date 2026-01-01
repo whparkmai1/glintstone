@@ -1,6 +1,6 @@
 # Privacy Policy for Glintstone
 
-**Last updated: December 30, 2024**
+**Last updated: December 30, 2025**
 
 Glintstone does not collect, store, or transmit any personal data. All data is stored locally on your device.
 
